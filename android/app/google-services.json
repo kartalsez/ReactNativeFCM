@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "346284091855",
+    "project_id": "bip-meet",
+    "storage_bucket": "bip-meet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346284091855:android:77bdd073f3072692570aba",
+        "android_client_info": {
+          "package_name": "com.bipmeet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp5Kq3pbJxHlGjUBo-LPqdo4OZLdyJ7_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346284091855:android:6e500ba23c3c4dc0570aba",
+        "android_client_info": {
+          "package_name": "com.fcmprojectlastversion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp5Kq3pbJxHlGjUBo-LPqdo4OZLdyJ7_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346284091855:android:31705fd8fbbad258570aba",
+        "android_client_info": {
+          "package_name": "org.jitsi.meet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp5Kq3pbJxHlGjUBo-LPqdo4OZLdyJ7_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
